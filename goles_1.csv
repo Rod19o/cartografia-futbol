@@ -1,0 +1,25 @@
+﻿Autor,Evento,titulo,lat,lng,sentimiento,explicacion,color,foto_id,audio_name
+Lucien Laurent,Mundial Uruguay 1930,El origen de la leyenda,-34.9083,-56.1558,Genesis y Nostalgia,Primer gol en la historia de los mundiales.,#7F8C8D,laurent_30.jpg,laurent_30.mp3
+Alcides Ghiggia,Mundial Brasil 1950,Luto nacional,-22.9121,-43.2302,Trauma y Destino,El Maracanazo que silencio a Brasil.,#2C3E50,maracana_50.jpg,audio_50.m4a
+Pele,Mundial Suecia 1958,El Bautismo del Trono,59.3628,17.9961,Asombro Global,Con solo 17 años nace el Rey.,#F1C40F,pele_58.jpg,audio_58.mp3
+Bobby Moore,Mundial Inglaterra 1966,Los Ecos de la Gran Guerra,51.556,-0.2796,Orgullo de Posguerra,El futbol regresa a casa.,#E74C3C,wembley_66.jpg,audio_66.mp3
+Diego Maradona,Mundial Mexico 1986,El Desquite de una Nacion,19.3029,-99.1505,Justicia Poetica,La Mano de Dios y el Gol del Siglo.,#3498DB,maradona_86.jpg,audio_86.mp3
+Hugo Sanchez,La Liga 1988,El Senor Gol,40.4531,-3.6883,Orgullo y Reivindicacion,La chilena perfecta ante el Logrones.,#E74C3C,hugo_88.jpg,hugo_audio.mp3
+Ronaldo Nazario,Mundial Corea-Japon 2002,El Fenix de Yokohama,35.51,139.6064,Resurreccion,El regreso triunfal tras las lesiones.,#27AE60,ronaldo_02.jpg,audio_02.mp3
+Ronaldinho,La Liga 2005,La Sonrisa de la Tregua,40.4531,-3.6883,Admiracion Pura,El Bernabeu se pone de pie para aplaudirlo.,#8E44AD,ronnie_05.jpg,audio_05.mp3
+Steven Gerrard,Champions League 2005,La Rebelion contra la Logica,41.0744,28.7656,Fe Inquebrantable,El milagro de Estambul.,#C0392B,estambul_05.jpg,audio_est.mp3
+Zinedine Zidane,Mundial Alemania 2006,A lo panenka,52.5147,13.2394,Jerarquia,El penal picado ante Buffon.,#8E44AD,zidane_06.jpg,audio_06.mp3
+Didier Drogba,Eliminatorias 2007,El Fusil de la Paz,7.6766,-5.0297,Reconciliacion Civil,Drogba detiene la guerra en su pais.,#D35400,drogba_07.jpg,audio_dro.mp3
+Younis Mahmoud,Copa Asiatica 2007,El Oasis en el Desierto,-6.2183,106.8022,Esperanza,Irak campeon en medio del caos.,#16A085,irak_07.jpg,audio_irak.mp3
+Lionel Messi,Champions League 2009,El Heredero,41.9339,12.4547,Rivalidad Legendaria,Cabezazo imparable ante el ManUtd.,#D4AF37,messi_09.jpg,messi_09.mp3
+Andres Iniesta,Mundial Sudafrica 2010,El Abrazo de Espana,-26.2348,27.9824,Unidad Nacional,El gol que hizo llorar a un pais.,#F39C12,iniesta_10.jpg,audio_10.mp3
+Giovani dos Santos,Copa Oro 2011,La Conquista del Hogar,34.1613,-118.1676,Soberania Cultural,Firmala Gio ante Estados Unidos.,#117A65,mexico_11.jpg,audio_11.mp3
+Oribe Peralta,Olimpicos Londres 2012,El Oro de la Identidad,51.556,-0.2796,Redencion Historica,Mexico vence a Brasil en Wembley.,#B19470,mexico_12.jpg,audio_12.mp3
+Cristiano Ronaldo,Eurocopa 2016,El Salto del Comandante,45.7653,4.982,Liderazgo Absoluto,Portugal alcanza la gloria.,#922B21,cr7_16.jpg,audio_16.mp3
+Neymar Jr,Olimpicos Rio 2016,El Llanto del Perdon,-22.9121,-43.2302,Catarsis Colectiva,El oro que Brasil necesitaba sanar.,#2471A3,neymar_16.jpg,audio_ney.mp3
+Juanfer Quintero,Libertadores 2018,Pasion en el Exilio,40.4531,-3.6883,Rivalidad Metafisica,La final mas larga del mundo en Madrid.,#641E16,river_boca.jpg,audio_riv.mp3
+Cabecita Rodriguez,Guardianes 2021,23 anos de espera,19.3029,-99.1505,Gloria,Cruz Azul rompe la maldicion.,#3498DB,Azul_21.jpg,azul_21.mp3
+Lionel Messi,Mundial Qatar 2022,Coronacion de la Resiliencia,25.4208,51.4904,Consagracion,Messi finalmente levanta la Copa.,#1ABC9C,messi_22.jpg,audio_22.mp3
+Carlos Rotondi,Final 2024,La decima,19.3317,-99.1922,Dominio Territorial,Cruz Azul consolida una nueva epoca.,#2980B9,Azul_26.jpg,azul_26.mp3
+La Aficion,Mundial 2026,El Ocaso de los Magos,39.8283,-98.5795,Gratitud,La primera copa organizada por tres naciones.,#5D6D7E,mundial_26.jpg,audio_26.mp3
+Real Ocote FC,Futbol de Barrio,El Corazon de la Comunidad,19.3229,-99.2379,Pasion de Barrio,Donde el futbol nace de verdad.,#1D8348,Real_Ocote.jpg,Real_Ocote.mp3
